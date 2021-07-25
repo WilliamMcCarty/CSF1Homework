@@ -46,6 +46,7 @@
     <Compile Include="ATM.cs" />
     <Compile Include="FizzBuz.cs" />
     <Compile Include="FruitLoop1.cs" />
+    <Compile Include="FruitLoop2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
