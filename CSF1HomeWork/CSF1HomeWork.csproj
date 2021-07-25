@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ATM.cs" />
+    <Compile Include="Fibonacci.cs" />
     <Compile Include="FizzBuz.cs" />
     <Compile Include="FruitLoop1.cs" />
     <Compile Include="FruitLoop2.cs" />
