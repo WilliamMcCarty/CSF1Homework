@@ -105,14 +105,12 @@ namespace CSF1HomeWork
                             Console.ReadLine();
                             cycle = false;
                         }
-
-                        if (allowedLoginTrys - loginTrys > 0)
+                        else
                         {
                             Console.Beep();
                             Console.WriteLine($"Invalid account number you have {allowedLoginTrys - loginTrys} left.");
                             Console.ReadLine();
                         }
-
                         loginTrys++;
 
                         break;
